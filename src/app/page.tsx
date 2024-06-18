@@ -19,7 +19,7 @@ export default function Home() {
         <details>
           <summary className="text-xl font-bold text-slate-700">Tabla de verdad encriptada</summary>
           <div>
-            <p className="text-lg mt-8 mb-4">Complete todos los “?” para resolver el ejercicio.</p>
+            <p className="text-lg mt-8 mb-4">Complete todos los “?” para resolver este ejercicio.</p>
             <Image
               className="relative dark:drop-shadow-[0_0_0.3rem_#ffffff70] dark:invert"
               src="/tabla-de-verdad.png"
