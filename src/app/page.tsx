@@ -597,8 +597,10 @@ export default function Home() {
       </div>
 
 
-      <p>Añada un pequeño comentario de los temas: Conjuntos y expresiones algebraicas.
-      (Si les pareció llamativo, si o no y el porqué) 😄</p>
+      <div className="border border-slate-300 p-6 flex flex-col gap-3 mb-10">
+        <h3 className="font-bold text-[#bfbefe] text-xl">Todos los temas muy nindos 🦄</h3>
+        <p>Muchas gracias profe, he disfrutado mucho de este curso.</p>
+      </div>
     </main>
   );
 }
