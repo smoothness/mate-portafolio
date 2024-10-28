@@ -9,7 +9,7 @@ export function Header() {
         <div className="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl">
           <div className="flex items-center">
             <span className="self-center text-xl font-black uppercase  whitespace-nowrap text-white mr-4">Mauricio Poveda</span>
-            <span className="self-center text-xl font-semibold uppercase text-blue-200">Portafolio</span>
+            <span className="self-center text-xl font-semibold uppercase text-blue-200">Portafolio del Bloque de Matemáticas</span>
           </div>
           <div className="hidden justify-between items-center w-full lg:flex lg:w-auto lg:order-1" id="mobile-menu-2">
             <ul className="flex flex-col mt-4 font-medium lg:flex-row lg:space-x-8 lg:mt-0">
